@@ -1,16 +1,14 @@
-### Hi there 👋
+**Seja bem vindo ao meu perfil no GitHub!** 💟 💻
 
-<!--
-**TamirisCeolin/TamirisCeolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Me chamo Tamiris Ceolin. 👧
+- Moro em `Salto do Lontra`, uma pequena cidade localizada no Sudoeste do Paraná (Brasil 🇧🇷).
+- Sou Professora de _Matemática_. 👩‍🏫
+- Estou estudando na [Alura.](https//www.Alura.com.br)
+- Utilizo esse espaço para minha organização e compartilhamento de projeots. 📎
 
-Here are some ideas to get you started:
+**Você pode entrar em contato comigo:**
+- 📧 tamiris.ceolin@escola.pr.gov.br
+  
+- @tamirisceolin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/n8rY6fOKXn0AAAAC/thank-you-thank-you-very-much.gif)
